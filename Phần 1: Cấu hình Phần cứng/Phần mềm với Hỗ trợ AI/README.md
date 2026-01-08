@@ -1,4 +1,4 @@
-quy trình cài đặt (trích dẫn nguồn AI)
+quy trình cài đặt (trích dẫn nguồn AI - gemini)
 Bước 1: Cài đặt Notepad++ trên Windows 11
 Truy cập trang chủ Notepad++ Downloads.
 
